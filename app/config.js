@@ -7,7 +7,7 @@ export default (() => {
     // 用户登录信息
     global.STAFF = {
       code: 'admin',
-      name: 'duxiaodu',
+      name: 'from Github',
     };
 
     // 系统一二级菜单
@@ -35,4 +35,3 @@ export default (() => {
     ];
   }(window.$GLOBALCONFIG);
 })()
-
